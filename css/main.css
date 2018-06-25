@@ -1,5 +1,5 @@
 
-header{
+content{
 	margin-top: 75px;
 }
 #testimonial{
@@ -10,4 +10,15 @@ header{
 }
 footer{
 	background: url(../img/smartphones.png);
+}
+.up{
+    display:inline-block;
+	padding: 20px;
+	background: #024959;
+	font-size: 20px;
+	color: #f1f1f1;
+	cursor:pointer;
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
 }
