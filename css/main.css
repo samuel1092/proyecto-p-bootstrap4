@@ -1,4 +1,12 @@
-
+.background-primary{
+    background-color: #79bfd8;
+}
+.background-secondary{
+    background-color: ;
+}
+.menu-sup{
+    background-color: #0e2730 !important;
+}
 content{
 	margin-top: 75px;
 }
